@@ -12,7 +12,6 @@ binar = [int(x) for x in str(n)]
 print(binar)
 count=0
 temp=0
-true=0
 for i in binar:
     if i==1:
         count+=1
